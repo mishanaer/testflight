@@ -1,6 +1,6 @@
 # TestFlight Button
 
-Animated SVG buttons for TestFlight.
+Animated SVG buttons for TestFlight
 
 ### Blue
 
@@ -14,4 +14,4 @@ Animated SVG buttons for TestFlight.
 
 <img src="./available-on-testflight-white-preview.svg" width="365" alt="Available on TestFlight — white on black">
 
-Download the SVG you need and use it as an image.
+
