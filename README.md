@@ -12,12 +12,6 @@ Animated SVG buttons for TestFlight.
 
 ### White
 
-<table>
-  <tr>
-    <td bgcolor="#111111">
-      <img src="./available-on-testflight-white.svg" width="333" alt="Available on TestFlight — white">
-    </td>
-  </tr>
-</table>
+<img src="./available-on-testflight-white-preview.svg" width="365" alt="Available on TestFlight — white on black">
 
 Download the SVG you need and use it as an image.
