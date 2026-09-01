@@ -8,7 +8,8 @@
   Glyphs are laid out with Core Text pair-kerning (Av, Te, etc.).
   Avoid SVG filters on text — they rasterize and look soft on GitHub.
 -->
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 365 172" width="365" height="172" role="img" aria-label="Available on TestFlight — white on black">\n  <rect x="-16" y="-16" width="365" height="172" rx="20" fill="#111113"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-16 -16 365 172" width="365" height="172" role="img" aria-label="Available on TestFlight — white on black">
+  <rect x="-16" y="-16" width="365" height="172" rx="20" fill="#111113"/>
   <!--
     Grid pitch = 27, square cells.
     Badge width = 11 × 27 = 297 → exactly 1 full cell on left and right.
