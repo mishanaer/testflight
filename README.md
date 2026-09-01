@@ -12,6 +12,6 @@ Animated SVG buttons for TestFlight
 
 ### White
 
-<img src="./available-on-testflight-white-preview.svg" width="365" alt="Available on TestFlight — white on black">
+<img src="./available-on-testflight-white.svg" width="333" alt="Available on TestFlight — white">
 
 
