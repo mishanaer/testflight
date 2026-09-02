@@ -14,4 +14,10 @@ Animated SVG buttons for TestFlight
 
 <img src="./available-on-testflight-white.svg" width="333" alt="Available on TestFlight — white">
 
+## Icon Template
 
+Editable Icon Composer template for TestFlight builds.
+
+<img src="./testflight-icon-template.png" width="333" alt="TestFlight icon template preview">
+
+[Open the Icon Composer template](./Testflight.icon)
