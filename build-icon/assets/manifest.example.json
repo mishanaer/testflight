@@ -1,0 +1,24 @@
+{
+  "name": "AppIcon",
+  "platforms": ["ios", "ipados", "macos", "watchos"],
+  "background": {
+    "default": "#FFFFFF",
+    "dark": "#111111"
+  },
+  "layers": [
+    {
+      "name": "Foreground",
+      "default": "layers/foreground.svg",
+      "dark": "layers/foreground-dark.svg",
+      "tinted": "layers/foreground.svg",
+      "glass": false,
+      "shadowOpacity": 0.24
+    },
+    {
+      "name": "Symbol",
+      "default": "layers/symbol.png",
+      "glass": false,
+      "shadowOpacity": 0.18
+    }
+  ]
+}

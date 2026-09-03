@@ -1,0 +1,4 @@
+interface:
+  display_name: "Build Icon"
+  short_description: "Нативные Apple app icons и macOS Assets.car"
+  default_prompt: "Используй $build-icon, чтобы подготовить арт, собрать Apple .icon, создать варианты оформления и скомпилировать нативный macOS Assets.car с системными эффектами."
