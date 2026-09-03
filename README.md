@@ -20,12 +20,34 @@ Editable Icon Composer templates for TestFlight builds.
 
 ### Full Grid
 
-<img src="./testflight-icon-template.png" width="333" alt="TestFlight icon template preview">
-
-[Open the Full Grid template](./Testflight.icon)
+<table>
+  <tr>
+    <th>Default</th>
+    <th>Dark</th>
+    <th>Mono</th>
+    <th>Tinted</th>
+  </tr>
+  <tr>
+    <td><img src="./testflight-icon-template.png" width="200" alt="Full Grid — Default"></td>
+    <td><img src="./testflight-icon-template-dark.png" width="200" alt="Full Grid — Dark"></td>
+    <td><img src="./testflight-icon-template-mono.png" width="200" alt="Full Grid — Mono"></td>
+    <td><img src="./testflight-icon-template-tinted.png" width="200" alt="Full Grid — Tinted"></td>
+  </tr>
+</table>
 
 ### Simplified Grid
 
-<img src="./testflight-icon-template-simplified.png" width="333" alt="Simplified TestFlight icon template preview">
-
-[Open the Simplified Grid template](./Testflight-Simplified.icon)
+<table>
+  <tr>
+    <th>Default</th>
+    <th>Dark</th>
+    <th>Mono</th>
+    <th>Tinted</th>
+  </tr>
+  <tr>
+    <td><img src="./testflight-icon-template-simplified.png" width="200" alt="Simplified Grid — Default"></td>
+    <td><img src="./testflight-icon-template-simplified-dark.png" width="200" alt="Simplified Grid — Dark"></td>
+    <td><img src="./testflight-icon-template-simplified-mono.png" width="200" alt="Simplified Grid — Mono"></td>
+    <td><img src="./testflight-icon-template-simplified-tinted.png" width="200" alt="Simplified Grid — Tinted"></td>
+  </tr>
+</table>
