@@ -52,3 +52,9 @@ Editable Icon Composer templates for TestFlight builds
     <td><img src="./icon/testflight-icon-template-simplified-tinted.png" width="200" alt="Simplified Grid — Tinted"></td>
   </tr>
 </table>
+
+## Build Icon Skill
+
+- Builds layered Apple `.icon` packages from SVG and PNG artwork.
+- Creates and validates Default, Dark, and Tinted appearances.
+- Exports previews and integrates icons into Xcode, Tauri, or Expo.
