@@ -17,7 +17,7 @@ Animated SVG buttons for TestFlight
 
 ## Icon Template
 
-Editable Icon Composer templates for TestFlight builds.
+Editable Icon Composer templates for TestFlight builds
 
 ### Full Grid
 
