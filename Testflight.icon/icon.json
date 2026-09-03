@@ -8,7 +8,7 @@
         {
           "glass" : false,
           "hidden" : false,
-          "image-name" : "Grid (Do not export).svg",
+          "image-name" : "Grid Default.svg",
           "name" : "Grid · Default",
           "opacity-specializations" : [
             {
