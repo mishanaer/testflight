@@ -1,0 +1,8 @@
+<svg width="1024" height="1024" viewBox="0 0 1024 1024" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M1024 768H0" stroke="white" style="stroke:white;stroke-opacity:1;" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M1024 512H0" stroke="white" style="stroke:white;stroke-opacity:1;" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M1024 256H0" stroke="white" style="stroke:white;stroke-opacity:1;" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M768 1024V0" stroke="white" style="stroke:white;stroke-opacity:1;" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M512 1024V0" stroke="white" style="stroke:white;stroke-opacity:1;" stroke-width="1.5" stroke-miterlimit="10"/>
+<path d="M256 1024V0" stroke="white" style="stroke:white;stroke-opacity:1;" stroke-width="1.5" stroke-miterlimit="10"/>
+</svg>
