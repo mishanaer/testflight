@@ -35,7 +35,7 @@
             },
             {
               "appearance" : "dark",
-              "value" : 1
+              "value" : 0.5
             },
             {
               "appearance" : "tinted",
