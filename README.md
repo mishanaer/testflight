@@ -2,17 +2,18 @@
 
 Animated SVG buttons for TestFlight
 
-### Blue
-
-<img src="./available-on-testflight-blue.svg" width="333" alt="Available on TestFlight — blue">
-
-### Black
-
-<img src="./available-on-testflight-black.svg" width="333" alt="Available on TestFlight — black">
-
-### White
-
-<img src="./available-on-testflight-white.svg" width="333" alt="Available on TestFlight — white">
+<table>
+  <tr>
+    <th>Blue</th>
+    <th>Black</th>
+    <th>White</th>
+  </tr>
+  <tr>
+    <td><img src="./available-on-testflight-blue.svg" width="300" alt="Available on TestFlight — blue"></td>
+    <td><img src="./available-on-testflight-black.svg" width="300" alt="Available on TestFlight — black"></td>
+    <td><img src="./available-on-testflight-white.svg" width="300" alt="Available on TestFlight — white"></td>
+  </tr>
+</table>
 
 ## Icon Template
 
