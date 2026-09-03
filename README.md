@@ -15,6 +15,8 @@ Animated SVG buttons for TestFlight
   </tr>
 </table>
 
+[Open TestFlight buttons](./button)
+
 ## Icon Template
 
 Editable Icon Composer templates for TestFlight builds
@@ -53,8 +55,12 @@ Editable Icon Composer templates for TestFlight builds
   </tr>
 </table>
 
+[Open icon templates](./icon)
+
 ## Build Icon Skill
 
 - Builds layered Apple `.icon` packages from SVG and PNG artwork.
 - Creates and validates Default, Dark, and Tinted appearances.
 - Exports previews and integrates icons into Xcode, Tauri, or Expo.
+
+[Open Build Icon skill](./build-icon)
