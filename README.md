@@ -1,4 +1,4 @@
-#№ TestFlight Button
+## TestFlight Button
 
 Animated SVG buttons for TestFlight
 
